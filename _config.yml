@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/jioyoung/jioyoung.io
+  repo: git@github.com:jioyoung/jioyoung.github.io.git
   branch: main
