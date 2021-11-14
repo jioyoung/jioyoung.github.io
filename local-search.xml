@@ -8,7 +8,7 @@
     <link href="/2021/11/12/hello-world/"/>
     <url>/2021/11/12/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>$\sum$</p>]]></content>
+    <content type="html"><![CDATA[<p>$\sum$</p><script type="math/tex; mode=display">E=mc^2</script>]]></content>
     
     
     
