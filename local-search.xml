@@ -4,9 +4,9 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2025/04/29/en/hello-world/"/>
-    <url>/2025/04/29/en/hello-world/</url>
+    <title>Hello World 123</title>
+    <link href="/en/hello-world/"/>
+    <url>/en/hello-world/</url>
     
     <content type="html"><![CDATA[<p>hello world</p><p>why why why<br><a href="/zh/hello-world/">Switch to 中文版本</a></p>]]></content>
     
@@ -83,8 +83,8 @@
   
   <entry>
     <title>你好世界</title>
-    <link href="/2021/11/14/zh/hello-world/"/>
-    <url>/2021/11/14/zh/hello-world/</url>
+    <link href="/zh/hello-world/"/>
+    <url>/zh/hello-world/</url>
     
     <content type="html"><![CDATA[<p>你好世界<br>$\sum$</p><script type="math/tex; mode=display">E=mc^2</script>]]></content>
     
